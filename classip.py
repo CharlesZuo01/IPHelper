@@ -92,11 +92,3 @@ class ipobject:
 			self.addrtype = 'Host address'
 		return self.addrtype
 
-
-'''
-	def getmulticmac(self):
-
-
-	def lookup
-'''
-
